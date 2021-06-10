@@ -8,4 +8,4 @@
     <li>Material ui</li>
 </ul>
 
-<p>To view this project either click <span><a href="https://react-palette-maker.herokuapp.com/">here</a></span> or clone this repository and run npm install then npm start run this project locally.</p>
+<p>To view this project either click <span><a href="https://react-palette-maker.herokuapp.com/">here</a></span> or clone this repository and run npm install then npm start run to this project locally.</p>
